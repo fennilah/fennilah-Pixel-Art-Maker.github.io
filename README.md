@@ -8,4 +8,4 @@ Udacity - Front-End Web Developer Nanodegree project
 
 ## Art Preview
 
-![Preview Work](pic4.jpg)
+![Preview Work](art.jpg)
