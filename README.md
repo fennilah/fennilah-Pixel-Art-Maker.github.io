@@ -10,4 +10,4 @@ Check out this example:
 
 ## Art Preview
 
-![Preview Work](Screenshot (58).png)
+ ![Preview Work](Screenshot(58).png)
