@@ -8,4 +8,4 @@ Check out this example:
 
 ## Art Preview
 
-![Preview Work](art.png)
+![Preview Work](ArtOriginal.png)
