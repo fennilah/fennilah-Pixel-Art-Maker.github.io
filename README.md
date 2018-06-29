@@ -1,16 +1,11 @@
-# Pixel Art Maker Project
+# Pixel Art Maker 
 
-## Table of Contents
+## Overview
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+A Pixel Art Maker is a single-page web app that allows users to draw pixel art on a customizable canvas using grid of squares representing their design, and apply colors to those squares to create a digital masterpiece! 
 
-## Instructions
+Check out this example:
 
-To get started, open `designs.js` and start building out the app's functionality.
+## Live view *click* [here] (https://fennilah-Pixel-Art-Maker.github.io)
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+![Preview Work](Screenshot(58).png)
