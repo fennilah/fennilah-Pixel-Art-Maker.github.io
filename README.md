@@ -6,7 +6,7 @@ A Pixel Art Maker is a single-page web app that allows users to draw pixel art o
 
 Check out this example:
 
-## Live view *click* [here] (https://fennilah-Pixel-Art-Maker.github.io/Screenshot (58).png)
+## Live view *click* [here] (https://fennilah/fennilah-Pixel-Art-Maker.github.io)
 
 ## Art Preview
 
