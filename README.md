@@ -10,4 +10,4 @@ Check out this example:
 
 ![Preview Work](ArtOriginal.png)
 
-https://github.com/fennilah/fennilah-Pixel-Art-Maker.github.io
+
