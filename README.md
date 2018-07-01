@@ -8,7 +8,7 @@ Check out this example:
 
 ## Art Preview
 
-#####  Live view **click** [here](https://github.com/fennilah/fennilah-Pixel-Art-Maker.github.io/)
+#####  Live view **click** [here](https://fennilah/fennilah-Pixel-Art-Maker.github.io/)
 
 ![Preview Work](ArtOriginal.png)
 
