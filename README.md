@@ -8,9 +8,7 @@ Check out this example:
 
 ## Art Preview
 
-click [HERE] (https://fennilah/fennilah-Pixel-Art-Maker.github.io)  to view app
-
-#####  Live view **click** [here](https://fennilah/fennilah-Pixel-Art-Maker.github.io/)
+#####  Live view **click** [here](https://fennilah-Pixel-Art-Maker.github.io/)
 
 ![Preview Work](ArtOriginal.png)
 
